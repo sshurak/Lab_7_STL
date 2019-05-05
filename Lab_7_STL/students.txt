@@ -1,0 +1,15 @@
+Simonov 22
+3
+Maths 5
+Prog 4
+IT 4
+Pulin 17
+4
+Teormech 4
+Primeh 5
+Phylosophy 4
+IT 4
+Kukin 19
+2
+IT 5
+Primeh 4
